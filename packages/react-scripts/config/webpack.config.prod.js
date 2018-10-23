@@ -339,6 +339,7 @@ module.exports = {
                     },
                   },
                 ],
+                require.resolve('babel-plugin-styled-components'),
               ],
               cacheDirectory: true,
               // Save disk space when time isn't as important
