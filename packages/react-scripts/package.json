@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.1",
+  "name": "creeptoma-react-scripts",
+  "version": "2.0.5",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/willnguyen1312/create-react-app/issues"
   },
   "files": [
     "bin",
