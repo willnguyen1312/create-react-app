@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/pulls)
 
 Create React apps with no build configuration.
@@ -201,3 +202,6 @@ We are grateful to the authors of existing related projects for their ideas and 
 ## License
 
 Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
+=======
+# Hello there
+>>>>>>> Update ...
