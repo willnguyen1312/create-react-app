@@ -1,0 +1,3 @@
+[submodule "crav2"]
+	path = crav2
+	url = https://github.com/willnguyen1312/create-react-app
