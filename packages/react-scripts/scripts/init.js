@@ -21,7 +21,7 @@ const execSync = require('child_process').execSync;
 const spawn = require('react-dev-utils/crossSpawn');
 const { defaultBrowsers } = require('react-dev-utils/browsersHelper');
 const os = require('os');
-const verifyTypeScriptSetup = require('./utils/verifyTypeScriptSetup');
+// const verifyTypeScriptSetup = require('./utils/verifyTypeScriptSetup');
 
 function isInGitRepository() {
   try {
@@ -196,7 +196,7 @@ module.exports = function(
   }
 
   if (useTypeScript) {
-    verifyTypeScriptSetup();
+    // verifyTypeScriptSetup();
   }
 
   if (tryGitInit(appPath)) {
